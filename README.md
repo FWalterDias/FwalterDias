@@ -15,9 +15,9 @@ Desenvolvedor Front-end | Back-End | Full-Stack
 </p>
 
 
-*   🌍  I'm based in Sobral - CE
-*   ✉️  You can contact me at [franciscowalterd@gmail.com](mailto:franciscowalterd@gmail.com)
-*   🧠  I'm learning React.JS - API REST - SQL
+*   🌍  Sobral - CE
+*   ✉️  Você pode me contar em: [franciscowalterd@gmail.com](mailto:franciscowalterd@gmail.com)
+*   🧠  Estou aprendendo React.JS - API REST - SQL
    
 
 ### Skills 
