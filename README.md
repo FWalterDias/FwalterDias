@@ -8,7 +8,7 @@ Desenvolvedor Front-end | Back-End | Full-Stack
       Apaixonado por músicas, cachorros, e pelo poder transformador da tecnologia. O que me motiva hoje é saber que sou capaz de transformar a vida das pessoas através da beleza que a tecnologia pode nos proporcionar. 
 </p>
 <p text-align="justify">
-      Há cerca de um ano e meio tive meu primeiro contato com programação através de cursos gratuitos pelo CURSOEMVIDEO, Tech Academy, e SENAC-CE nos quais adquirindo experiências em Front-End( HTML, CSS, JavaScript e Bootstrap), e Back-End (Node.JS SQL), e atualmente sou aluno de Desenvolvimento de Software Full-Stack na Cubos Academy. 
+      Há cerca de um ano e meio tive meu primeiro contato com programação através de cursos gratuitos pelo CURSOEMVIDEO, Tech Academy, RocketSeat, SENAC-CE e ALURA nos quais adquirindo experiências em Front-End( HTML, CSS, JavaScript e Bootstrap), e Back-End (Node.JS SQL), e atualmente sou aluno de Desenvolvimento de Software Full-Stack na Cubos Academy. 
 </p>
 <p text-align="justify">
       Tenho interesse em atuar como Desenvolvedor Front-End, Back-End, ou Full-Stack.
