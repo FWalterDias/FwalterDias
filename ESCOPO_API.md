@@ -99,9 +99,7 @@ O endpoint permite o cadastro de um novo usuário no sistema.
 
 - **Método:** `POST`
 - **Rota:** `/signup`
--  **Requisitos obrigatórios**
-     - Criar nova conta onde email seja único
-     - Senha deve ser salva utilizando criptografia confiavél
+
 #### Corpo da Requisição
 
 - `name` (string, obrigatório): Nome do usuário.
@@ -135,11 +133,7 @@ O endpoint permite a autenticação de um usuário no sistema.
 
 - **Método:** `POST`
 - **Rota:** `/login`
-- **Requisitos obrigatórios**
-  - Preencher todos os campos
-  - Informar e-mail existente
-  - Senha correta para o e-mail
-  - Criar token após validação dos dados
+
 
 #### Corpo da Requisição
 
@@ -178,12 +172,12 @@ A partir de agora, para acessar todas as rotas a seguir será necessário passar
 - Corpo da requisição:
  ```json
   {
-    Authorization: Bearer { token }
+    "Authorization": "Bearer { token }"
   }
   ```
 <br/>
 
-### Obter informações do usuário
+### Obter informações do usuário logado
 Essa rota será usada para obter informacoes do seu perfil do usuario que está logado no sistema.
 
 #### Requisição
