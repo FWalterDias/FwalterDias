@@ -1,14 +1,14 @@
 Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)me chamo Francisco Walter
 ========================================================================================================================================
 
-Desenvolvedor Front-end | Back-End | Full-Stack
+Desenvolvedor Back-End | Front-end | Full-Stack
 -----------------------------------------------
 
 <p text-align="justify">
       Apaixonado por músicas, cachorros, e pelo poder transformador da tecnologia. O que me motiva hoje é saber que sou capaz de transformar a vida das pessoas através da beleza que a tecnologia pode nos proporcionar. 
 </p>
 <p text-align="justify">
-      Há cerca de um ano e meio tive meu primeiro contato com programação através de cursos gratuitos pelo CURSOEMVIDEO, Tech Academy, RocketSeat, SENAC-CE e ALURA nos quais adquirindo experiências em Front-End( HTML, CSS, JavaScript e Bootstrap), e Back-End (Node.JS SQL), e atualmente sou aluno de Desenvolvimento de Software Full-Stack na Cubos Academy. 
+      Há cerca de dois anos venho ivestindo meus dias estudando programação através de cursos gratuitos, e pagos. Durante essa jornada, adquiri experiências em Front-End( HTML, CSS, JavaScript, Bootstrap, ReactJS), e Back-End (Node.JS, PostgreSQL). Atualmente estou me formando em Desenvolvimento de Software Full-Stack na Cubos Academy. 
 </p>
 <p text-align="justify">
       Tenho interesse em atuar como Desenvolvedor Front-End, Back-End, ou Full-Stack.
@@ -17,7 +17,7 @@ Desenvolvedor Front-end | Back-End | Full-Stack
 
 *   🌍  Sobral - CE
 *   ✉️  Você pode me contar em: [franciscowalterd@gmail.com](mailto:franciscowalterd@gmail.com)
-*   🧠  Estou aprendendo React.JS - JAVA
+*   🧠  Estou aprendendo: React.JS - JAVA - Angular
    
 
 ### Skills 
