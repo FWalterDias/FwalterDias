@@ -1,79 +1,72 @@
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)me chamo Francisco Walter
+Hi, I'm Francisco Walter!
 ========================================================================================================================================
 
-Desenvolvedor Back-End | Front-end | Full-Stack
+Full-Stack Developer
 -----------------------------------------------
 
+## 🚀 About me
+
 <p text-align="justify">
-      Apaixonado por músicas, cachorros, e pelo poder transformador da tecnologia. O que me motiva hoje é saber que sou capaz de transformar a vida das pessoas através da beleza que a tecnologia pode nos proporcionar. 
-</p>
+      Passionate about music, dogs, and the transformative power of technology. What motivates me today is knowing that I am able to transform people’s lives through beauty that technology can provide us.
 <p text-align="justify">
-      Há cerca de dois anos venho ivestindo meus dias estudando programação através de cursos gratuitos, e pagos. Durante essa jornada, adquiri experiências em Front-End( HTML, CSS, JavaScript, Bootstrap, ReactJS), e Back-End (Node.JS, PostgreSQL). Atualmente estou me formando em Desenvolvimento de Software Full-Stack na Cubos Academy. 
-</p>
+     For about two years I’ve been learning programming through courses free, and paid. During this journey, I acquired experiences in Front-End( HTML, CSS, JavaScript, Bootstrap, ReactJS) and Back-End (Node.JS, PostgreSQL). I am currently majoring in Full-Stack Software Development at Cubos Academy.
 <p text-align="justify">
-      Tenho interesse em atuar como Desenvolvedor Front-End, Back-End, ou Full-Stack.
+      I am interested in acting as a Back-End, Front-End or Full-Stack Developer.
 </p>
 
 
 *   🌍  Sobral - CE
-*   ✉️  Você pode me contar em: [franciscowalterd@gmail.com](mailto:franciscowalterd@gmail.com)
-*   🧠  Estou aprendendo: React.JS - JAVA - Angular
-   
+*   ✉️  Find me in: [franciscowalterd@gmail.com](mailto:franciscowalterd@gmail.com)
+*   🧠  I'm learning: React.JS - JAVA - Angular
 
-### Skills 
-<p align="left">
-     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-            </a>
-     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-            </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-            </a>
-     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-            </a>
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-            </a>
-     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-            </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-            </a> 
-     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-            </a>
-     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-            </a> 
-     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="Postgres" />
-            </a>  
-     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-            </a>  
-</p>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fwalterdias.github.io/Portifolio/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-walter/)
+
+[![Instagram](https://img.shields.io/badge/instagram-D9488B?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/johannwerther/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)
+
+## 👨‍💻 Tech Stack
+
+### Front-End
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-### Socials
-<p align="left">                       
-      <a href="https://www.github.com/FWalterDias" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-      </a>   
-      <a href="http://www.instagram.com/johannwerther" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-      </a>   
-      <a href="https://www.linkedin.com/in/francisco-walter/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-      </a> 
-</p>
+### Back-end:
+![NodeJs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/Express.js-green?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Knex](https://img.shields.io/badge/Knex.js-orange?style=for-the-badge&logo=Knex.js)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23220052.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud Deploy:
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+### Tools:
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 
 ### GitHub Stats
 
-<a href="http://www.github.com/FWalterDias">
-      <img src="https://github-readme-stats.vercel.app/api?username=FWalterDias&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FWalterDias's GitHub stats" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FWalterDias&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FWalterDias&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
