@@ -9,7 +9,7 @@ Full-Stack Developer
 <p text-align="justify">
       Passionate about music, dogs, and the transformative power of technology. What motivates me today is knowing that I am able to transform people’s lives through beauty that technology can provide us.
 <p text-align="justify">
-     For about two years I’ve been learning programming through courses free, and paid. During this journey, I acquired experiences in Front-End( HTML, CSS, JavaScript, Bootstrap, ReactJS) and Back-End (Node.JS, PostgreSQL). I am currently majoring in Full-Stack Software Development at Cubos Academy.
+     For about two years I’ve been learning programming through courses free, and paid. During this journey, I acquired experiences in Front-End( HTML, CSS, JavaScript, Bootstrap, ReactJS) and Back-End (Node.JS, PostgreSQL). I am currently majoring in Full-Stack Software Development at <a href="https://cubos.academy/?utm_term=cubos%20academy&utm_campaign=Conversion+-+Search+-+Branding+-+Cubos+Academy&utm_source=google&utm_medium=cpc&hsa_acc=6320525513&hsa_cam=18154121427&hsa_grp=141084695032&hsa_ad=618464016440&hsa_src=g&hsa_tgt=kwd-1212716925774&hsa_kw=cubos%20academy&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjw9-6oBhBaEiwAHv1QvIvh3D2a2pDP6tv7jAUX5dtRL0TjDAPAORVyEm9vVMxjZVFZDsOmYhoCW1IQAvD_BwE">Cubos Academy</a>.
 <p text-align="justify">
       I am interested in acting as a Back-End, Front-End or Full-Stack Developer.
 </p>
