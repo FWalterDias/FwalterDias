@@ -17,7 +17,7 @@ Full-Stack Developer
 
 *   🌍  Sobral - CE
 *   ✉️  Find me in: [franciscowalterd@gmail.com](mailto:franciscowalterd@gmail.com)
-*   🧠  I'm learning: React.JS - JAVA - Angular
+*   🧠  I'm learning: JAVA - Cloud
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-fwalterdias.vercel.app/home)
