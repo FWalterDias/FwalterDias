@@ -4,7 +4,7 @@ Hi, I'm Francisco Walter!
 Full-Stack Developer
 -----------------------------------------------
 
-## 🚀 About me
+## 🚀 Sobre mim
 
 <p text-align="justify">
       
